@@ -3,6 +3,6 @@
 """Copying a module attribute"""
 
 
-from peanut import BUTTER
+from task_01.peanut import BUTTER
 
 JELLY = BUTTER

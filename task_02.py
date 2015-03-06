@@ -3,6 +3,6 @@
 """Importing a module namespace"""
 
 
-from peanut import BUTTER
+from task_01.peanut import BUTTER
 
 TIME = BUTTER
