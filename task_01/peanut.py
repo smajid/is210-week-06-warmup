@@ -4,4 +4,4 @@
 
 
 BUTTER = 'I am truthy'
-OIL = 'I am falsy'
+OIL = 'I am falsy' is True
